@@ -23,9 +23,11 @@
         <button class="btn btn-primary lg-btn" id="get-more">
           Показать ещё...
         </button>
+        var_dump($nav);
       <?php
       }
       ?>
+
 
 
     </div>
